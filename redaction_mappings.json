@@ -1,0 +1,372 @@
+{
+  "mappings": {
+    "Cyberdyne Systems [company]": "Rodriguez, Figueroa and Sanchez",
+    "Miles Dyson [name]": "Brian Yang",
+    "5412-7584-9301-8274 [credit_card]": "2131-9600-1338-903",
+    "198.51.100.12 [ip]": "3.173.150.154",
+    "m.dyson@cyberdyne.com [email]": "shaneramirez@example.org",
+    "Sarah Connor [name]": "Caitlin Henderson",
+    "742 Evergreen Terrace, Springfield, OR 97477, USA [address]": "1161 Abbott Rapids, Lindsaymouth, ND 16862",
+    "s.connor@cyberdyne.com [email]": "smiller@example.net",
+    "Dey Consulting Group [company]": "Mcclure, Ward and Lee",
+    "Peter Parker [name]": "Matthew Mejia",
+    "rohan.dey@gmail.com [email]": "wyattmichelle@example.com",
+    "+91 8765432109 [phone]": "+91 4752553419",
+    "203.0.113.45 [ip]": "143.170.251.114",
+    "peter.parker@example.com [email]": "stevennelson@example.net",
+    "Rohan Dey [name]": "Colleen Nguyen",
+    "12-08-1988 [dob]": "04-06-1964",
+    "120, MG Road, Camp, Pune, Maharashtra, 411001, India [address]": "6413 Lewis Parks, Wilkersonmouth, FL 35219",
+    "Rashi Patil [name]": "Patrick Ryan",
+    "103.45.201.88 [ip]": "189.181.186.216",
+    "192.168.4.15 [ip]": "220.199.227.146",
+    "4532-8827-1100-3456 [credit_card]": "3428-7101-2269-164",
+    "666-23-9874 [ssn]": "391-77-7669",
+    "rashhi.patil@gmail.com [email]": "tasha01@example.net",
+    "FinTech Solutions [company]": "Potter, Mack and Peterson",
+    "John Doe [name]": "Christopher Smith",
+    "45, Park Street, Sector 5, Kolkata, West Bengal, 700016, India [address]": "281 Skinner Parkways Apt. 252, New Mariotown, DE 48077",
+    "john.doe@example.com [email]": "john39@example.org",
+    "+91 9876543210 [phone]": "+91 1718227824",
+    "1994-11-23 [dob]": "1996-07-11",
+    "Patil Biotech [company]": "Henderson, Lewis and Ryan"
+  },
+  "detections": [
+    {
+      "start": 3035,
+      "end": 3052,
+      "type": "company",
+      "original": "Cyberdyne Systems",
+      "replacement": "Rodriguez, Figueroa and Sanchez"
+    },
+    {
+      "start": 3010,
+      "end": 3021,
+      "type": "name",
+      "original": "Miles Dyson",
+      "replacement": "Brian Yang"
+    },
+    {
+      "start": 2923,
+      "end": 2942,
+      "type": "credit_card",
+      "original": "5412-7584-9301-8274",
+      "replacement": "2131-9600-1338-903"
+    },
+    {
+      "start": 2883,
+      "end": 2896,
+      "type": "ip",
+      "original": "198.51.100.12",
+      "replacement": "3.173.150.154"
+    },
+    {
+      "start": 2801,
+      "end": 2822,
+      "type": "email",
+      "original": "m.dyson@cyberdyne.com",
+      "replacement": "shaneramirez@example.org"
+    },
+    {
+      "start": 2757,
+      "end": 2774,
+      "type": "company",
+      "original": "Cyberdyne Systems",
+      "replacement": "Rodriguez, Figueroa and Sanchez"
+    },
+    {
+      "start": 2744,
+      "end": 2756,
+      "type": "name",
+      "original": "Sarah Connor",
+      "replacement": "Caitlin Henderson"
+    },
+    {
+      "start": 2651,
+      "end": 2700,
+      "type": "address",
+      "original": "742 Evergreen Terrace, Springfield, OR 97477, USA",
+      "replacement": "1161 Abbott Rapids, Lindsaymouth, ND 16862"
+    },
+    {
+      "start": 2622,
+      "end": 2635,
+      "type": "ip",
+      "original": "198.51.100.12",
+      "replacement": "3.173.150.154"
+    },
+    {
+      "start": 2507,
+      "end": 2526,
+      "type": "credit_card",
+      "original": "5412-7584-9301-8274",
+      "replacement": "2131-9600-1338-903"
+    },
+    {
+      "start": 2390,
+      "end": 2412,
+      "type": "email",
+      "original": "s.connor@cyberdyne.com",
+      "replacement": "smiller@example.net"
+    },
+    {
+      "start": 2324,
+      "end": 2341,
+      "type": "company",
+      "original": "Cyberdyne Systems",
+      "replacement": "Rodriguez, Figueroa and Sanchez"
+    },
+    {
+      "start": 2302,
+      "end": 2314,
+      "type": "name",
+      "original": "Sarah Connor",
+      "replacement": "Caitlin Henderson"
+    },
+    {
+      "start": 2184,
+      "end": 2204,
+      "type": "company",
+      "original": "Dey Consulting Group",
+      "replacement": "Mcclure, Ward and Lee"
+    },
+    {
+      "start": 2154,
+      "end": 2166,
+      "type": "name",
+      "original": "Peter Parker",
+      "replacement": "Matthew Mejia"
+    },
+    {
+      "start": 2109,
+      "end": 2128,
+      "type": "email",
+      "original": "rohan.dey@gmail.com",
+      "replacement": "wyattmichelle@example.com"
+    },
+    {
+      "start": 2078,
+      "end": 2092,
+      "type": "phone",
+      "original": "+91 8765432109",
+      "replacement": "+91 4752553419"
+    },
+    {
+      "start": 2042,
+      "end": 2054,
+      "type": "ip",
+      "original": "203.0.113.45",
+      "replacement": "143.170.251.114"
+    },
+    {
+      "start": 1894,
+      "end": 1918,
+      "type": "email",
+      "original": "peter.parker@example.com",
+      "replacement": "stevennelson@example.net"
+    },
+    {
+      "start": 1857,
+      "end": 1866,
+      "type": "name",
+      "original": "Rohan Dey",
+      "replacement": "Colleen Nguyen"
+    },
+    {
+      "start": 1801,
+      "end": 1811,
+      "type": "dob",
+      "original": "12-08-1988",
+      "replacement": "04-06-1964"
+    },
+    {
+      "start": 1772,
+      "end": 1786,
+      "type": "phone",
+      "original": "+91 8765432109",
+      "replacement": "+91 4752553419"
+    },
+    {
+      "start": 1695,
+      "end": 1747,
+      "type": "address",
+      "original": "120, MG Road, Camp, Pune, Maharashtra, 411001, India",
+      "replacement": "6413 Lewis Parks, Wilkersonmouth, FL 35219"
+    },
+    {
+      "start": 1648,
+      "end": 1660,
+      "type": "ip",
+      "original": "203.0.113.45",
+      "replacement": "143.170.251.114"
+    },
+    {
+      "start": 1580,
+      "end": 1600,
+      "type": "company",
+      "original": "Dey Consulting Group",
+      "replacement": "Mcclure, Ward and Lee"
+    },
+    {
+      "start": 1466,
+      "end": 1485,
+      "type": "email",
+      "original": "rohan.dey@gmail.com",
+      "replacement": "wyattmichelle@example.com"
+    },
+    {
+      "start": 1391,
+      "end": 1411,
+      "type": "company",
+      "original": "Dey Consulting Group",
+      "replacement": "Mcclure, Ward and Lee"
+    },
+    {
+      "start": 1372,
+      "end": 1381,
+      "type": "name",
+      "original": "Rohan Dey",
+      "replacement": "Colleen Nguyen"
+    },
+    {
+      "start": 1263,
+      "end": 1274,
+      "type": "name",
+      "original": "Rashi Patil",
+      "replacement": "Patrick Ryan"
+    },
+    {
+      "start": 1214,
+      "end": 1227,
+      "type": "ip",
+      "original": "103.45.201.88",
+      "replacement": "189.181.186.216"
+    },
+    {
+      "start": 1189,
+      "end": 1201,
+      "type": "ip",
+      "original": "192.168.4.15",
+      "replacement": "220.199.227.146"
+    },
+    {
+      "start": 1126,
+      "end": 1145,
+      "type": "credit_card",
+      "original": "4532-8827-1100-3456",
+      "replacement": "3428-7101-2269-164"
+    },
+    {
+      "start": 1087,
+      "end": 1098,
+      "type": "ssn",
+      "original": "666-23-9874",
+      "replacement": "391-77-7669"
+    },
+    {
+      "start": 1018,
+      "end": 1040,
+      "type": "email",
+      "original": "rashhi.patil@gmail.com",
+      "replacement": "tasha01@example.net"
+    },
+    {
+      "start": 971,
+      "end": 988,
+      "type": "company",
+      "original": "FinTech Solutions",
+      "replacement": "Potter, Mack and Peterson"
+    },
+    {
+      "start": 948,
+      "end": 956,
+      "type": "name",
+      "original": "John Doe",
+      "replacement": "Christopher Smith"
+    },
+    {
+      "start": 780,
+      "end": 842,
+      "type": "address",
+      "original": "45, Park Street, Sector 5, Kolkata, West Bengal, 700016, India",
+      "replacement": "281 Skinner Parkways Apt. 252, New Mariotown, DE 48077"
+    },
+    {
+      "start": 705,
+      "end": 727,
+      "type": "email",
+      "original": "rashhi.patil@gmail.com",
+      "replacement": "tasha01@example.net"
+    },
+    {
+      "start": 601,
+      "end": 621,
+      "type": "email",
+      "original": "john.doe@example.com",
+      "replacement": "john39@example.org"
+    },
+    {
+      "start": 566,
+      "end": 577,
+      "type": "name",
+      "original": "Rashi Patil",
+      "replacement": "Patrick Ryan"
+    },
+    {
+      "start": 539,
+      "end": 553,
+      "type": "phone",
+      "original": "+91 9876543210",
+      "replacement": "+91 1718227824"
+    },
+    {
+      "start": 489,
+      "end": 499,
+      "type": "dob",
+      "original": "1994-11-23",
+      "replacement": "1996-07-11"
+    },
+    {
+      "start": 387,
+      "end": 449,
+      "type": "address",
+      "original": "45, Park Street, Sector 5, Kolkata, West Bengal, 700016, India",
+      "replacement": "281 Skinner Parkways Apt. 252, New Mariotown, DE 48077"
+    },
+    {
+      "start": 312,
+      "end": 334,
+      "type": "email",
+      "original": "rashhi.patil@gmail.com",
+      "replacement": "tasha01@example.net"
+    },
+    {
+      "start": 281,
+      "end": 294,
+      "type": "company",
+      "original": "Patil Biotech",
+      "replacement": "Henderson, Lewis and Ryan"
+    },
+    {
+      "start": 155,
+      "end": 177,
+      "type": "email",
+      "original": "rashhi.patil@gmail.com",
+      "replacement": "tasha01@example.net"
+    },
+    {
+      "start": 65,
+      "end": 78,
+      "type": "company",
+      "original": "Patil Biotech",
+      "replacement": "Henderson, Lewis and Ryan"
+    },
+    {
+      "start": 44,
+      "end": 55,
+      "type": "name",
+      "original": "Rashi Patil",
+      "replacement": "Patrick Ryan"
+    }
+  ]
+}

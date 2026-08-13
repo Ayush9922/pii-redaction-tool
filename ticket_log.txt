@@ -1,0 +1,90 @@
+Ticket ID: #108234
+Date: 2026-08-10
+Client: Rashi Patil
+Company: Patil Biotech Ltd.
+Subject: Password Reset & Account Verification
+
+[Customer Rashi Patil (rashhi.patil@gmail.com) - 2026-08-10 10:15:32 AM]
+Hello Support,
+I am writing to request a password reset for my account with Patil Biotech Ltd. My email is rashhi.patil@gmail.com.
+Also, I need to verify my billing address on file: 45, Park Street, Sector 5, Kolkata, West Bengal, 700016, India.
+For verification, my Date of Birth is 1994-11-23. You can reach me on my mobile number: +91 9876543210.
+Thank you,
+Rashi Patil
+
+---
+
+[Agent John Doe (john.doe@example.com) - 2026-08-10 11:00:15 AM]
+Hi Rashi Patil,
+I have initiated the password reset for rashhi.patil@gmail.com.
+Regarding address verification, I see the address "45, Park Street, Sector 5, Kolkata, West Bengal, 700016, India" matches our records.
+Could you also verify the last 4 digits of your SSN and credit card on file?
+Best,
+John Doe
+Support Team, FinTech Solutions
+
+---
+
+[Customer Rashi Patil (rashhi.patil@gmail.com) - 2026-08-10 11:20:45 AM]
+Hi John,
+My SSN is 666-23-9874.
+The credit card ending is 4532-8827-1100-3456.
+I am currently working from the office IP 192.168.4.15 and home IP 103.45.201.88.
+Please update the ticket.
+Thanks,
+Rashi Patil
+
+==================================================
+
+Ticket ID: #108235
+Date: 2026-08-11
+Client: Rohan Dey
+Company: Dey Consulting Group
+Subject: API Connection Refused
+
+[Customer Rohan Dey (rohan.dey@gmail.com) - 2026-08-11 02:40:12 PM]
+Hello,
+We are trying to connect to the production environment from Dey Consulting Group.
+The connection is refused from our server IP: 203.0.113.45.
+Our alternate billing address is 120, MG Road, Camp, Pune, Maharashtra, 411001, India.
+My registered phone is +91 8765432109 and my DOB is 12-08-1988.
+Please white-list this IP address.
+Regards,
+Rohan Dey
+
+---
+
+[Agent Peter Parker (peter.parker@example.com) - 2026-08-11 03:15:00 PM]
+Hi Rohan Dey,
+I have escalated this ticket to the network team. They will review access for IP: 203.0.113.45.
+I will contact you on +91 8765432109 or email you at rohan.dey@gmail.com if we need more details.
+Peter Parker
+Systems Support, Dey Consulting Group
+
+==================================================
+
+Ticket ID: #108236
+Date: 2026-08-12
+Client: Sarah Connor
+Company: Cyberdyne Systems
+Subject: Payment Issue
+
+[Customer Sarah Connor (s.connor@cyberdyne.com) - 2026-08-12 09:05:00 AM]
+Hello Support,
+I tried to make a payment using our corporate card: 5412-7584-9301-8274 (Mastercard).
+The system threw a database connection error.
+I am checking from our terminal at 198.51.100.12.
+My address is 742 Evergreen Terrace, Springfield, OR 97477, USA.
+Please verify if the charge went through.
+Sarah Connor
+Cyberdyne Systems
+
+---
+
+[Agent Miles Dyson (m.dyson@cyberdyne.com) - 2026-08-12 10:12:44 AM]
+Hi Sarah,
+I checked the logs for 198.51.100.12.
+The transaction for card 5412-7584-9301-8274 failed before processing, so no charge was made.
+Please try again.
+Miles Dyson
+Finance Ops, Cyberdyne Systems

@@ -1,0 +1,50 @@
+{
+  "names": [
+    "Rashi Patil",
+    "John Doe",
+    "Rohan Dey",
+    "Peter Parker",
+    "Sarah Connor",
+    "Miles Dyson"
+  ],
+  "emails": [
+    "rashhi.patil@gmail.com",
+    "john.doe@example.com",
+    "rohan.dey@gmail.com",
+    "peter.parker@example.com",
+    "s.connor@cyberdyne.com",
+    "m.dyson@cyberdyne.com"
+  ],
+  "phones": [
+    "+91 9876543210",
+    "+91 8765432109"
+  ],
+  "companies": [
+    "Patil Biotech Ltd.",
+    "FinTech Solutions",
+    "Dey Consulting Group",
+    "Cyberdyne Systems"
+  ],
+  "addresses": [
+    "45, Park Street, Sector 5, Kolkata, West Bengal, 700016, India",
+    "120, MG Road, Camp, Pune, Maharashtra, 411001, India",
+    "742 Evergreen Terrace, Springfield, OR 97477, USA"
+  ],
+  "ssns": [
+    "666-23-9874"
+  ],
+  "credit_cards": [
+    "4532-8827-1100-3456",
+    "5412-7584-9301-8274"
+  ],
+  "dobs": [
+    "1994-11-23",
+    "12-08-1988"
+  ],
+  "ips": [
+    "192.168.4.15",
+    "103.45.201.88",
+    "203.0.113.45",
+    "198.51.100.12"
+  ]
+}

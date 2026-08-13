@@ -1,0 +1,90 @@
+Ticket ID: #108234
+Date: 2026-08-10
+Client: Patrick Ryan
+Company: Henderson, Lewis and Ryan Ltd.
+Subject: Password Reset & Account Verification
+
+[Customer Rashi Patil (tasha01@example.net) - 2026-08-10 10:15:32 AM]
+Hello Support,
+I am writing to request a password reset for my account with Henderson, Lewis and Ryan Ltd. My email is tasha01@example.net.
+Also, I need to verify my billing address on file: 281 Skinner Parkways Apt. 252, New Mariotown, DE 48077.
+For verification, my Date of Birth is 1996-07-11. You can reach me on my mobile number: +91 1718227824.
+Thank you,
+Patrick Ryan
+
+---
+
+[Agent John Doe (john39@example.org) - 2026-08-10 11:00:15 AM]
+Hi Rashi Patil,
+I have initiated the password reset for tasha01@example.net.
+Regarding address verification, I see the address "281 Skinner Parkways Apt. 252, New Mariotown, DE 48077" matches our records.
+Could you also verify the last 4 digits of your SSN and credit card on file?
+Best,
+Christopher Smith
+Support Team, Potter, Mack and Peterson
+
+---
+
+[Customer Rashi Patil (tasha01@example.net) - 2026-08-10 11:20:45 AM]
+Hi John,
+My SSN is 391-77-7669.
+The credit card ending is 3428-7101-2269-164.
+I am currently working from the office IP 220.199.227.146 and home IP 189.181.186.216.
+Please update the ticket.
+Thanks,
+Patrick Ryan
+
+==================================================
+
+Ticket ID: #108235
+Date: 2026-08-11
+Client: Colleen Nguyen
+Company: Mcclure, Ward and Lee
+Subject: API Connection Refused
+
+[Customer Rohan Dey (wyattmichelle@example.com) - 2026-08-11 02:40:12 PM]
+Hello,
+We are trying to connect to the production environment from Mcclure, Ward and Lee.
+The connection is refused from our server IP: 143.170.251.114.
+Our alternate billing address is 6413 Lewis Parks, Wilkersonmouth, FL 35219.
+My registered phone is +91 4752553419 and my DOB is 04-06-1964.
+Please white-list this IP address.
+Regards,
+Colleen Nguyen
+
+---
+
+[Agent Peter Parker (stevennelson@example.net) - 2026-08-11 03:15:00 PM]
+Hi Rohan Dey,
+I have escalated this ticket to the network team. They will review access for IP: 143.170.251.114.
+I will contact you on +91 4752553419 or email you at wyattmichelle@example.com if we need more details.
+Matthew Mejia
+Systems Support, Mcclure, Ward and Lee
+
+==================================================
+
+Ticket ID: #108236
+Date: 2026-08-12
+Client: Caitlin Henderson
+Company: Rodriguez, Figueroa and Sanchez
+Subject: Payment Issue
+
+[Customer Sarah Connor (smiller@example.net) - 2026-08-12 09:05:00 AM]
+Hello Support,
+I tried to make a payment using our corporate card: 2131-9600-1338-903 (Mastercard).
+The system threw a database connection error.
+I am checking from our terminal at 3.173.150.154.
+My address is 1161 Abbott Rapids, Lindsaymouth, ND 16862.
+Please verify if the charge went through.
+Caitlin Henderson
+Rodriguez, Figueroa and Sanchez
+
+---
+
+[Agent Miles Dyson (shaneramirez@example.org) - 2026-08-12 10:12:44 AM]
+Hi Sarah,
+I checked the logs for 3.173.150.154.
+The transaction for card 2131-9600-1338-903 failed before processing, so no charge was made.
+Please try again.
+Brian Yang
+Finance Ops, Rodriguez, Figueroa and Sanchez
